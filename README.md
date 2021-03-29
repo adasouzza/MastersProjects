@@ -2,7 +2,7 @@
 
 O projeto consiste na resolução dos problemas das 8-Rainhas e do Quebra-Cabeças de 8 peças através da implementação de diversos algoritmos.
 
-# Exercício: N-Queens
+# N-Queens
   
 ## Objetivo
 O objetivo do problema é dispor as rainhas no tabuleiro de forma que nenhuma delas
