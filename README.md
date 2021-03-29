@@ -2,6 +2,17 @@
 
 O projeto consiste na resolução dos problemas das 8-Rainhas e do Quebra-Cabeças de 8 peças através da implementação de diversos algoritmos.
 
+## Bibliotecas Utilizadas
+
+```
+pip install python-math
+pip install pycopy-copy
+pip install matplotlib
+pip install seaborn
+pip install python-time
+pip install numpy
+```
+
 # PUZZLE-8
   
 ## Objetivo
