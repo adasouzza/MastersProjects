@@ -12,17 +12,17 @@ linha, coluna ou diagonal.
 ![alt text](https://solarianprogrammer.com/images/2017/11/20/queens_attack_patterns.png)
 ##
 
-* Algoritmos de Busca
+### Algoritmos de Busca</b>
 Para a resolução desse problema utilize um algoritmo de busca
 heurística (gulosa ou A*) e um algoritmo de busca local (ex: subida da encosta, tempera simulada,
 feixe local, algoritmo genético).
 
-* Resultados Obtidos
+### Resultados Obtidos
 O programa deverá imprimir o tabuleiro com as rainhas disposta nele e
 a quantidade de passos encontrados na resolução do problema.
 
 
-* Algoritmos Implementados:
+### Algoritmos Implementados:
 - Hill Climbing
 - Busca Gulosa
 
