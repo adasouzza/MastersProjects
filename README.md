@@ -8,7 +8,7 @@ O projeto consiste na resolução dos problemas das 8-Rainhas e do Quebra-Cabeç
 O objetivo do jogo é atingir uma posição final a partir de um estado inicial
 movimentando-se cada peça por meio do espaço vazio (branco) até chegar ao estado final.
 ## 
-![alt text](https://ibb.co/sgJCQ24)
+![alt text](https://i.postimg.cc/3Nbtg6H7/Capturar.png)
 ##
 
 ### Algoritmos de Busca
