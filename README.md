@@ -8,7 +8,9 @@ O projeto consiste na resolução dos problemas das 8-Rainhas e do Quebra-Cabeç
 O objetivo do problema é dispor as rainhas no tabuleiro de forma que nenhuma delas
 seja atacada por outra. Para tanto, é necessário que duas rainhas quaisquer não estejam numa mesma
 linha, coluna ou diagonal. 
+## 
 ![alt text](https://solarianprogrammer.com/images/2017/11/20/queens_attack_patterns.png)
+##
 
 * Algoritmos de Busca
 Para a resolução desse problema utilize um algoritmo de busca
